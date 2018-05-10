@@ -1,6 +1,5 @@
-# E6690_FinalProject_rm3500_ns3212
+# EECS E6690 – Final Project
 
-EECS E6690 – Final Project
 By:
 Rohan Mehta (rm3500)
 Nanda Kishore Siddabasappa (ns3212)
